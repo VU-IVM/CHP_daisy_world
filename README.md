@@ -10,7 +10,7 @@
 7. Search for Colaboratory and install the app.
 8. Now you can open the notebook with Google Colaboratory and start the assignment!
 
-For more information: https://canvas.vu.nl/courses/48724/assignments/118443
+For more information: https://canvas.vu.nl/courses/56476/assignments/178432
 
 # Install Python
 See the README in https://github.com/VU-IVM/Learning_Python 
